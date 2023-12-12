@@ -1,13 +1,17 @@
-# Wordle-Solver-Application
-Wordle AI Solver
-Overview
-This Python-based project features an advanced algorithm that uses Trie data structures to navigate the expansive Oxford English Dictionary efficiently. Designed specifically for the popular game Wordle, the algorithm is optimized to provide the best possible word suggestions through a sophisticated word filtering system that aligns with the game's unique rules and constraints.
+# Wordle AI Solver
 
-Features
-Trie Implementation: Efficient traversal through a comprehensive word list to suggest optimal choices for Wordle.
-Game Constraints Integration: Custom filters that apply Wordle's rules to zero in on potential word options.
-Interactive UI: A user interface refined through successive iterations and player feedback to ensure a seamless gaming experience.
+## Overview
+The Wordle AI Solver is an innovative Python application designed to offer enhanced gameplay for Wordle enthusiasts. It utilizes a Trie data structure to navigate the Oxford English Dictionary efficiently, providing optimal word suggestions.
+
+## Features
+- **Optimized Dictionary Traversal**: Utilizes Trie for rapid word lookups.
+- **Wordle-Specific Filtering**: Applies game rules to filter and suggest words.
+- **Enhanced User Interface**: The interface is refined based on player feedback to ensure a seamless experience.
+- **Intelligent Algorithm**: Leverages game tree algorithms and AI exploration-exploitation techniques for improved prediction accuracy.
 
 
-Feedback and Contributions
-Your feedback is invaluable in improving the Wordle AI Solver. If you have suggestions or would like to contribute to the project, please reach out or submit a pull request.
+## Contributions
+Feedback and contributions are welcome. Please submit an issue or pull request.
+
+
+
